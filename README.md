@@ -9,7 +9,7 @@ Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic D
 
 <details><summary>Table of Contents</summary><p>
 
-* [What is VerSe?](#what-is-verse)
+* [What is Our Approach?](#what-is-verse)
 * [Citing VerSe](#citing-verse)
 * [Data](#data)
 * [Download](#download)
@@ -21,12 +21,12 @@ Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic D
 
 </p></details><p></p>
 
-## What is VerSe?
+## What is Our Approach?
 Spine or vertebral segmentation is a crucial step in all applications regarding automated quantification of spinal morphology and pathology. With the advent of deep learning, for such a task on computed tomography (CT) scans, a big and varied data is a primary sought-after resource. However, a large-scale, public dataset is currently unavailable.
 
 We believe *VerSe* can help here. VerSe is a large scale, multi-detector, multi-site, CT spine dataset consisting of 374 scans from 355 patients. The challenge was held in two iterations in conjunction with MICCAI 2019 and 2020. The tasks evaluated for include: vertebral labelling and segmentation.  
 
-## Citing VerSe
+## Citing Us
 
 If you use VerSe, we would appreciate references to the following papers. 
 
