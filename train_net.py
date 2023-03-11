@@ -1,14 +1,6 @@
-# ==========================================
-# Modified by Shoufa Chen
-# ===========================================
-# Modified by Peize Sun, Rufeng Zhang
-# Contact: {sunpeize, cxrfzhang}@foxmail.com
-#
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
-"""
-DiffusionDet Training Script.
 
-This script is a simplified version of the training script in detectron2/tools.
+"""
+hierarchialdet Training Script. Adapted from DiffusionDet.
 """
 
 import os
@@ -29,7 +21,7 @@ from detectron2.data import build_detection_train_loader
 from detectron2.engine import DefaultTrainer, default_argument_parser, default_setup, launch, create_ddp_model, \
     AMPTrainer, SimpleTrainer, hooks
 from detectron2.evaluation import LVISEvaluator, verify_results, print_csv_format
-from diffusiondet.util.coco_3class_eval import COCOEvaluator
+from hierarchialdet.util.coco_3class_eval import COCOEvaluator
 from detectron2.solver.build import maybe_add_gradient_clipping
 from detectron2.modeling import build_model
 
@@ -37,8 +29,8 @@ from detectron2.modeling import build_model
 
 
 from evaluator import DatasetEvaluator, inference_on_dataset
-from diffusiondet import DiffusionDetDatasetMapper, add_diffusiondet_config, DiffusionDetWithTTA
-from diffusiondet.util.model_ema import add_model_ema_configs, may_build_model_ema, may_get_ema_checkpointer, EMAHook, \
+from hierarchialdet import DiffusionDetDatasetMapper, add_diffusiondet_config, DiffusionDetWithTTA
+from hierarchialdet.util.model_ema import add_model_ema_configs, may_build_model_ema, may_get_ema_checkpointer, EMAHook, \
     apply_model_ema_and_restore, EMADetectionCheckpointer
 
 
