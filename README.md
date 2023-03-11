@@ -3,7 +3,7 @@ Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic D
 ## Our Framework
 ![Our method relies on a hierarchical learning approach utilizing a combi- nation of multi-label detection, bounding box manipulation, and weight transfer.](figures/flowchart.png)
 *Our Diffusion-Based Object Detection method relies on a hierarchical learning approach utilizing a combination of multi-label detection, bounding box manipulation, and weight transfer.*
-## What is VerSe?
+## Output of the Model
 ![Output from our final model showing well-defined boxes for diseased teeth with corresponding quadrant (Q), enumeration (N), and diagnosis (D) labels., etc.](figures/output.png)
 *Output from our final model showing well-defined boxes for diseased teeth with corresponding quadrant (Q), enumeration (N), and diagnosis (D) labels.*
 
@@ -21,7 +21,7 @@ Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic D
 
 </p></details><p></p>
 
-## Output of the Model
+## What is VerSe?
 Spine or vertebral segmentation is a crucial step in all applications regarding automated quantification of spinal morphology and pathology. With the advent of deep learning, for such a task on computed tomography (CT) scans, a big and varied data is a primary sought-after resource. However, a large-scale, public dataset is currently unavailable.
 
 We believe *VerSe* can help here. VerSe is a large scale, multi-detector, multi-site, CT spine dataset consisting of 374 scans from 355 patients. The challenge was held in two iterations in conjunction with MICCAI 2019 and 2020. The tasks evaluated for include: vertebral labelling and segmentation.  
