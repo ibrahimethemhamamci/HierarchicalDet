@@ -1,2 +1,2 @@
-# ManipulateDet: Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays
+# HierarchicalDet: Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays
 Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays
