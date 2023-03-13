@@ -25,7 +25,7 @@ Although numerous ML models have been developed for the interpretation of panora
 
 Specifically, to take advantage of the hierarchically annotated data, our method utilizes a novel noisy box manipulation technique by adapting the denoising process in the diffusion network with the inference from the previously trained model in hierarchical order. We also utilize a multi-label object detection method to learn efficiently from partial annotations and to give all the needed information about each abnormal tooth for treatment planning. Experimental results show that our method significantly outperforms state-of-the-art object detection methods, including RetinaNet, Faster R-CNN, DETR, and DiffusionDet for the analysis of panoramic X-rays, demonstrating the great potential of our method for hierarchically and partially annotated datasets.
 
-*Also, our work serves as a baseline method for DENTEX (Dental Enumeration and Diagnosis on Panoramic X- rays Challenge) which will be held at MICCAI 2023.*
+*Also, our work serves as a baseline method for [DENTEX (Dental Enumeration and Diagnosis on Panoramic X- rays Challenge)](https://dentex.grand-challenge.org/) which will be held at MICCAI 2023.*
 
 ## Citing Us
 
