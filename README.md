@@ -16,8 +16,7 @@ Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic D
 * [License](#license)
 * [Code](#code)
 * [Contact](#contact)
-* [Other Related Work](#other-related-work)
-* [Acknowledgements](#acknowledgements)
+
 
 </p></details><p></p>
 
@@ -107,14 +106,3 @@ We provide helper code and guiding notebooks.
 For queries and issues not fit for a github issue, please email [Anjany Sekuboyina](mailto:anjany.sekuboyina@tum.de) or [Jan Kirschke](mailto:jan.kirschke@tum.de) .
 
 
-## Other Related Work
-
-VerSe has resulted in numerous other publications. Below are a few selected ones.
-
-**Sekuboyina A. et al., Labelling Vertebrae with 2D Reformations of Multidetector CT Images: An Adversarial Approach for Incorporating Prior Knowledge of Spine Anatomy. Radiology: Artificial Intelligence, 2020.** (https://doi.org/10.1148/ryai.2020190074)
-
-
-## Acknowledgements
-* This work is supported by the European Research Council (ERC) under the European Union’s ‘Horizon2020’  research  &  innovation  programme  (GA637164–iBack–ERC–2014–STG).
-* We thank NVIDIA for the support in challenge organisation with compute. 
-* README derived from [PCam](https://github.com/basveeling/pcam).
