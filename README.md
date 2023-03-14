@@ -3,6 +3,7 @@ Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic D
 
 
 <details><summary>Table of Contents</summary><p>
+  
 * [Our Framework](#Our-Framework)
 * [Output of the Model](#Output-of-the-Model)
 * [What is Our Approach?](#what-is-our-approach)
@@ -10,6 +11,7 @@ Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic D
 * [Data](#data)
 * [License](#license)
 * [Contact](#contact)
+  
 </p></details><p></p>
 
 ## Our Framework
