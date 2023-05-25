@@ -1,6 +1,5 @@
 # HierarchicalDet: Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays
-Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays
-
+This repository contains the code that underpins the innovative research presented in the paper *[Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays](https://arxiv.org/abs/2303.06500)*. Ibrahim Ethem Hamamci, Sezgin Er, Enis Simsar, Anjany Sekuboyina, Mustafa Gundogar, Bernd Stadlinger, Albert Mehl, Bjoern Menze. MICCAI 2023.
 
 <details><summary>Table of Contents</summary><p>
   
