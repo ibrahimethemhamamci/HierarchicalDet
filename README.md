@@ -31,20 +31,22 @@ Specifically, to take advantage of the hierarchically annotated data, our method
 
 If you use HierarchicalDet, we would appreciate references to the following papers. 
 
-@article{hamamci2023diffusion,
+'''
+1. @article{hamamci2023diffusion,
   title={Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays},
   author={Hamamci, Ibrahim Ethem and Er, Sezgin and Simsar, Enis and Sekuboyina, Anjany and Gundogar, Mustafa and Stadlinger, Bernd and Mehl, Albert and Menze, Bjoern},
   journal={arXiv preprint arXiv:2303.06500},
   year={2023}
 }
 
-@article{hamamci2023dentex,
+
+2. @article{hamamci2023dentex,
   title={DENTEX: An Abnormal Tooth Detection with Dental Enumeration and Diagnosis Benchmark for Panoramic X-rays},
   author={Hamamci, Ibrahim Ethem and Er, Sezgin and Simsar, Enis and Yuksel, Atif Emre and Gultekin, Sadullah and Ozdemir, Serife Damla and Yang, Kaiyuan and Li, Hongwei Bran and Pati, Sarthak and Stadlinger, Bernd and others},
   journal={arXiv preprint arXiv:2305.19112},
   year={2023}
 }
-
+'''
 
 ## Data
 
