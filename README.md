@@ -31,7 +31,7 @@ Specifically, to take advantage of the hierarchically annotated data, our method
 
 If you use HierarchicalDet, we would appreciate references to the following papers. 
 
-'''
+```
 1. @article{hamamci2023diffusion,
   title={Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays},
   author={Hamamci, Ibrahim Ethem and Er, Sezgin and Simsar, Enis and Sekuboyina, Anjany and Gundogar, Mustafa and Stadlinger, Bernd and Mehl, Albert and Menze, Bjoern},
@@ -46,7 +46,7 @@ If you use HierarchicalDet, we would appreciate references to the following pape
   journal={arXiv preprint arXiv:2305.19112},
   year={2023}
 }
-'''
+```
 
 ## Data
 
