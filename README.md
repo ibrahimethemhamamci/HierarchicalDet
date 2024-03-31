@@ -52,7 +52,7 @@ If you use HierarchicalDet, we would appreciate references to the following pape
 
 ## Data
 
-* The datasets are released  as part of [DENTEX (Dental Enumeration and Diagnosis on Panoramic X- rays Challenge)](https://dentex.grand-challenge.org/) on [Zenodo](https://zenodo.org/record/7812323). 
+* The datasets are released  as part of [DENTEX (Dental Enumeration and Diagnosis on Panoramic X- rays Challenge)](https://dentex.grand-challenge.org/) on [Hugging Face](https://huggingface.co/datasets/ibrahimhamamci/DENTEX/blob/main/README.md). 
 
 **Note**: The data used and annotations are fully identical to the one that will be used for the MICCAI challenge. Therefore, our work also serves as a baseline method for [DENTEX (Dental Enumeration and Diagnosis on Panoramic X-rays Challenge)](https://dentex.grand-challenge.org/) which will be held at MICCAI 2023.
 
